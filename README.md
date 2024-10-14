@@ -90,16 +90,13 @@
 <table>
 <tr>
   <td> 
-    <a href="https://github.com/PaulAndree/Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Aurora" alt="Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM GitHub Repo"></a> 
+    <a href="https://github.com/PaulAndree/Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM"><img src="https://github-readme-stats.vercel.app/api?username=PaulAndree&repo=Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM" alt="Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM GitHub Repo"></a> 
   </td>
   <td>
         <a href="https://github.com/WangRongsheng/MedQA-ChatGLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=MedQA-ChatGLM" alt="MedQA-ChatGLM GitHub Repo"></a> 
   </td>
 </tr>
   <tr>
-  <td> 
-    <a href="https://github.com/WangRongsheng/BestYOLO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=BestYOLO" alt="BestYOLO GitHub Repo"></a> 
-  </td>
   <td>
         <a href="https://github.com/WangRongsheng/Use-LLMs-in-Colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Use-LLMs-in-Colab" alt="Use-LLMs-in-Colab GitHub Repo"></a> 
   </td>
@@ -112,21 +109,5 @@
     <a href="https://github.com/WangRongsheng/SAM-fine-tune"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=SAM-fine-tune" alt="SAM-fine-tune GitHub Repo"></a> 
   </td>
 </tr>
-  <tr>
-  <td> 
-    <a href="https://github.com/WangRongsheng/XrayGLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=XrayGLM" alt="XrayGLM GitHub Repo"></a> 
-  </td>
-    <td> 
-    <a href="https://github.com/WangRongsheng/IvyGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=IvyGPT" alt="IvyGPT GitHub Repo"></a> 
-  </td>
-</tr>
-  </tr>
-  <tr>
-  <td> 
-    <a href="https://github.com/WangRongsheng/make-your-yolov5_dataset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=make-your-yolov5_dataset" alt="make-your-yolov5_dataset GitHub Repo"></a> 
-  </td>
-    <td> 
-    <a href="https://github.com/PKU-YuanGroup/Machine-Mindset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PKU-YuanGroup&repo=Machine-Mindset" alt="Machine-Mindset GitHub Repo"></a> 
-  </td>
 </tr>
 </table>
