@@ -90,7 +90,7 @@
 <table>
 <tr>
   <td> 
-    <a href="https://github.com/WangRongsheng/Aurora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Aurora" alt="Aurora GitHub Repo"></a> 
+    <a href="https://github.com/PaulAndree/Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Aurora" alt="Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM GitHub Repo"></a> 
   </td>
   <td>
         <a href="https://github.com/WangRongsheng/MedQA-ChatGLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=MedQA-ChatGLM" alt="MedQA-ChatGLM GitHub Repo"></a> 
