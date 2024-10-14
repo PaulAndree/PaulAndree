@@ -1,8 +1,3 @@
-> [!IMPORTANT]
-> 
-> **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: <a href = "mailto: wrs6@88.com">wrs6@88.com</a>**
-> > I am seeking a PhD. opportunity, if you are interested you can email me: wrs6@88.com
-
 <!--
 > [!IMPORTANT]
 > 
