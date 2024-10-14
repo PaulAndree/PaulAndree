@@ -84,26 +84,3 @@
 -->
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-
-
-<table>
-<tr>
-  <td> 
-    <a href="https://github.com/PaulAndree/Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM"><img src="https://github-readme-stats.vercel.app/api?username=PaulAndree&repo=Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM" alt="Paper-Adaptive-Learning-Assessment-Enhanced-by-LLM GitHub Repo"></a> 
-  </td>
-  <td>
-        <a href="https://github.com/PaulAndree/SGEC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAndreeg&repo=SGEC" alt="SGEC GitHub Repo"></a> 
-  </td>
-</tr>
-  <tr>
-  <td>
-        <a href="https://github.com/WangRongsheng/Use-LLMs-in-Colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Use-LLMs-in-Colab" alt="Use-LLMs-in-Colab GitHub Repo"></a> 
-  </td>
-</tr>
-  <tr>
-  <td> 
-    <a href="https://github.com/WangRongsheng/ChatGenTitle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=ChatGenTitle" alt="ChatGenTitle GitHub Repo"></a> 
-  </td>
-</tr>
-</table>
