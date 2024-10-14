@@ -24,8 +24,8 @@
 
 <p align="center">
   <a  href="www.linkedin.com/in/paul-eyzaguirre"><img src="https://img.shields.io/badge/LinkedIn-blue" align="bottom"/></a>
-  <a  href="https://twitter.com/RongshengWang"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="bottom"/></a>
-  <a  href="https://www.kaggle.com/paulbarreda"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" align="bottom"/></a>
+  <a  href="https://twitter.com/RongshengWang"><img src="https://img.shields.io/badge/Twiter-%231DA1F2" align="bottom"/></a>
+  <a  href="https://www.kaggle.com/paulbarreda"><img src="https://img.shields.io/badge/Kaggle-808080" align="bottom"/></a>
 </p>
 
 
